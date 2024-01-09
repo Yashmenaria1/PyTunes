@@ -7,7 +7,7 @@ pygame.init()
 root = Tk()
 
 # Setting the title and geometry
-root.title("Music Box")
+root.title("PyTunes")
 root.geometry("1300x670")
 root.configure(background="white")
 
